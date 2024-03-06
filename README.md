@@ -1,4 +1,8 @@
 # LLM_Course_HW_Model
-This repository holds the coding + writing for the LLM course hw. 
+This repository holds the coding + writing for the LLM course hw/project. 
 
-There might be errors in the models and math part
+HW1
+HW2
+HW3
+HW4
+HW5
